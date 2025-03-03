@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wwtoolbox.github.io</id>
+    <title>万物工具箱</title>
+    <updated>2025-03-03T12:59:20.338Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wwtoolbox.github.io"/>
+    <link rel="self" href="https://wwtoolbox.github.io/atom.xml"/>
+    <subtitle>版权所有 ©2021-2025 万物永存技术工作室 保留所有权利</subtitle>
+    <logo>https://wwtoolbox.github.io/images/avatar.png</logo>
+    <icon>https://wwtoolbox.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 万物工具箱</rights>
+    <entry>
+        <title type="html"><![CDATA[万物工具箱 v6.3_2025除夕特别版]]></title>
+        <id>https://wwtoolbox.github.io/post/v63_2025-chu-xi-te-bie-ban/</id>
+        <link href="https://wwtoolbox.github.io/post/v63_2025-chu-xi-te-bie-ban/">
+        </link>
+        <updated>2025-01-31T08:52:52.000Z</updated>
+        <content type="html"><![CDATA[<p>• 2025年1月30日 - v6.3_2025除夕特别版<br>
+主程序<br>
+蓝云工具箱更名为万物工具箱<br>
+默认在管理员权限运行<br>
+其实 Windows Vista 也可以使用哦！<br>
+logo更新<br>
+界面更新</p>
+<p>添加了2个软件官网<br>
+PixPin<br>
+优效日历</p>
+<p>添加了10个工具<br>
+傲梅分区助手<br>
+Windows Update Blocker<br>
+EasyRC<br>
+DriverEasy<br>
+IObitUnlocker<br>
+金山垃圾清理<br>
+OlSoul<br>
+单文件制作<br>
+软媒电脑医生<br>
+Glary Utilities</p>
+<p>更换了4个工具</p>
+<p>Hash 更换为 MyHash<br>
+UninstallTool 更换为 IObitUninstall<br>
+软媒图标大师更换为 Free Icon Tool<br>
+UltraISO 更换为 PowerISO</p>
+<p>移除了6个工具<br>
+AS SSD Benchmark<br>
+软媒清理大师<br>
+驱动精灵<br>
+ToDesk_Lite<br>
+金山开机加速<br>
+软媒图标大师</p>
+<p>更新了24个工具<br>
+360驱动大师 更新到 2.0.0.2050<br>
+AIDA64 更新到 7.50<br>
+CrystalDiskInfo 更新到 9.5.0<br>
+CPU-Z 更新到 2.13<br>
+CCleaner 更新到 5.80<br>
+ContextMenuManager 更新到 3.3.6.6<br>
+CppShot 更新到 0.6.0<br>
+DiskGenius 更新到 5.6.1<br>
+Everything 更新到 1.4.1.1026<br>
+GPU-Z 更新到 2.61<br>
+HEU KMS Activator 更新到 42.3.2<br>
+HardDiskSentinel 更新到 6.20.3<br>
+LocalSend 更新到 1.16.1<br>
+RustDesk 更新到 1.3.7<br>
+Rufus 更新到 4.6<br>
+RayLink_Lite 更新到 8.0.8.9<br>
+SmartDefrag 更新到 10.3<br>
+Uninstall Tool 更新到 3.7.4<br>
+Ventoy 更新到 1.1.00<br>
+WizTree 更新到 4.23<br>
+WinNTSetup 更新到 5.4.1.0<br>
+WiseCare365 更新到 7.1.1<br>
+WimTool 更新到 1.6.2025.0101</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万物工具箱 v6.4_2025春节特别版]]></title>
+        <id>https://wwtoolbox.github.io/post/v64_2025-chun-jie-te-bie-ban/</id>
+        <link href="https://wwtoolbox.github.io/post/v64_2025-chun-jie-te-bie-ban/">
+        </link>
+        <updated>2025-01-31T08:52:52.000Z</updated>
+        <content type="html"><![CDATA[<p>主程序<br>
+蓝云工具箱更名为万物工具箱<br>
+默认在管理员权限运行<br>
+其实 Windows Vista 也可以使用哦！<br>
+logo更新<br>
+界面更新</p>
+<p>添加了2个软件官网<br>
+PixPin<br>
+优效日历</p>
+<p>添加了11个工具<br>
+傲梅分区助手<br>
+Windows Update Blocker<br>
+EasyRC<br>
+DriverEasy<br>
+IObitUnlocker<br>
+金山垃圾清理<br>
+WinTools.net<br>
+单文件制作<br>
+Glary Utilities<br>
+灵工艺我的世界开服器<br>
+ReIconCache</p>
+<p>更换了4个工具</p>
+<p>Hash 更换为 MyHash<br>
+UninstallTool 更换为 IObitUninstall<br>
+软媒图标大师更换为 Free Icon Tool<br>
+UltraISO 更换为 PowerISO</p>
+<p>移除了6个工具<br>
+AS SSD Benchmark<br>
+软媒清理大师<br>
+驱动精灵<br>
+ToDesk_Lite<br>
+金山开机加速<br>
+软媒图标大师</p>
+<p>更新了23个工具<br>
+360驱动大师 更新到 2.0.0.2050<br>
+AIDA64 更新到 7.50<br>
+CrystalDiskInfo 更新到 9.5.0<br>
+CPU-Z 更新到 2.13<br>
+CCleaner 更新到 5.80<br>
+ContextMenuManager 更新到 3.3.6.6<br>
+CppShot 更新到 0.6.0<br>
+DiskGenius 更新到 5.6.1<br>
+Everything 更新到 1.4.1.1026<br>
+GPU-Z 更新到 2.61<br>
+HEU KMS Activator 更新到 42.3.2<br>
+HardDiskSentinel 更新到 6.20.3<br>
+LocalSend 更新到 1.16.1<br>
+RustDesk 更新到 1.3.7<br>
+Rufus 更新到 4.6<br>
+RayLink_Lite 更新到 8.0.8.9<br>
+SmartDefrag 更新到 10.2<br>
+Ventoy 更新到 1.1.00<br>
+WizTree 更新到 4.23<br>
+WinNTSetup 更新到 5.4.1.0<br>
+WiseCare365 更新到 7.1.1<br>
+WimTool 更新到 1.6.2025.0101</p>
+<p>123</p>
+]]></content>
+    </entry>
+</feed>
